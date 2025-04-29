@@ -37,3 +37,6 @@ halaman notifikasi ditujukan agar users dapat pemberitahuan tentang barang dan l
 
 ![Gambar 9](screenshot/Rewards.png)
 ini adalah halaman yang bertujuan untuk memberikan users sebuah hadiah berupa dicount dan lain lain
+
+![Gambar 10](screenshot/Account.png)
+users dapat melihat profilnya pada halaman ini
